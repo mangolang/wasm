@@ -1,5 +1,5 @@
 
-Mango interpreter
+Mango to wasm compiler
 ===============================
 
 Mango is a statically typed programming language that is designed to be compiled to WebAssembly.
